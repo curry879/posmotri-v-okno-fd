@@ -20,4 +20,4 @@
   - JavaScript
   - БЭМ
 
-  https://github.com/cury879/posmotri-v-okno-fd
+git clone https://github.com/curry879/posmotri-v-okno-fd
