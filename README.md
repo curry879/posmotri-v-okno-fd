@@ -19,3 +19,5 @@
   - CSS
   - JavaScript
   - БЭМ
+
+  https://github.com/cury879/posmotri-v-okno-fd
