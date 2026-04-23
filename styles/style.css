@@ -97,7 +97,6 @@ ol {
   display: flex;
   flex-direction: column;
   row-gap: 30px;
-  block-size: 298px;
 }
 
 .content__list {
