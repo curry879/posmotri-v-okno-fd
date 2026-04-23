@@ -94,12 +94,10 @@ ol {
   position: relative;
   block-size: 298px;
   overflow: auto;
-  position: relative;
   display: flex;
   flex-direction: column;
   row-gap: 30px;
   block-size: 298px;
-  overflow: auto;
 }
 
 .content__list {
